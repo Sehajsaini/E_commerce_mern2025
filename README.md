@@ -1,1 +1,3 @@
-# E_commerce_mern
+# Blanko
+### Ecommerce Website with Payement Integration
+#### Contrubuters: Rohit & Sehajdeep
